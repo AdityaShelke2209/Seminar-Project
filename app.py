@@ -73,9 +73,9 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        "Get Help": "https://github.com/RushikeshNirmal45/Seminar---Rushikesh-Nirmal",
-        "Report a bug": "https://github.com/RushikeshNirmal45/Seminar---Rushikesh-Nirmal/issues",
-        "About": "Cyber Guardian AI — Educational ML Cybersecurity Prototype. Project Group: Cyber Nexus.",
+        "Get Help": "https://github.com/AdityaShelke2209/Seminar-Project",
+        "Report a bug": "https://github.com/AdityaShelke2209/Seminar-Project/issues",
+        "About": "Cyber Guardian AI — Educational ML Cybersecurity Prototype. Developed by Aditya Arun Shelke (PRN: 2125UCSM1052). Live Prototype: https://seminar-prototype.onrender.com/",
     },
 )
 
@@ -234,6 +234,7 @@ with st.sidebar:
         <div style="font-size:2.5rem;">🛡️</div>
         <div style="color:#00d4ff; font-size:1.1rem; font-weight:700;">Cyber Guardian AI</div>
         <div style="color:#607080; font-size:0.75rem;">AI-Powered Cybersecurity</div>
+        <div style="margin-top:6px;"><a href="https://seminar-prototype.onrender.com/" target="_blank" style="color:#00e5ff; font-size:0.78rem; text-decoration:none; background:rgba(0,212,255,0.12); border:1px solid rgba(0,212,255,0.3); padding:3px 10px; border-radius:12px; display:inline-block;">🌐 Live Prototype</a></div>
     </div>
     """, unsafe_allow_html=True)
 
@@ -990,10 +991,13 @@ def page_about() -> None:
     |---|---|
     | **Project Title** | AI-Powered Cyber Attacks and Defence |
     | **Subtitle** | Challenges, Detection, and Future Solutions |
+    | **Student Name** | Aditya Arun Shelke |
+    | **PRN** | 2125UCSM1052 |
     | **Framework** | Cyber Guardian AI |
     | **Project Group** | Cyber Nexus |
     | **Domain** | Cybersecurity / AI in Cybersecurity |
-    | **Repository** | [GitHub](https://github.com/RushikeshNirmal45/Seminar---Rushikesh-Nirmal) |
+    | **Live Prototype** | [seminar-prototype.onrender.com](https://seminar-prototype.onrender.com/) |
+    | **Repository** | [GitHub](https://github.com/AdityaShelke2209/Seminar-Project) |
 
     ## What Is Implemented
 
@@ -1063,7 +1067,7 @@ def page_about() -> None:
 
     ## License
 
-    MIT License — see [LICENSE](https://github.com/RushikeshNirmal45/Seminar---Rushikesh-Nirmal/blob/master/LICENSE) for details.
+    MIT License — see [LICENSE](https://github.com/AdityaShelke2209/Seminar-Project/blob/master/LICENSE) for details.
     """)
 
 

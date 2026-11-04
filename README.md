@@ -5,6 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.40.0-FF4B4B.svg)](https://streamlit.io/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.5.2-F7931E.svg)](https://scikit-learn.org/)
+[![Live Prototype](https://img.shields.io/badge/Live%20Prototype-Render-success.svg)](https://seminar-prototype.onrender.com/)
 [![Tests](https://img.shields.io/badge/Tests-71%20Passed-brightgreen.svg)]()
 
 ---
@@ -21,13 +22,16 @@ Developed by **Cyber Nexus**, this project illustrates how machine learning assi
 
 ## Team & Academic Attribution
 
+- **Student Name**: Aditya Arun Shelke
+- **PRN**: 2125UCSM1052
 - **Project Group**: Cyber Nexus
 - **Project Title**: AI-Powered Cyber Attacks and Defence: Challenges, Detection, and Future Solutions
 - **Proposed Framework**: Cyber Guardian AI
 - **Domain**: Cybersecurity
 - **Subdomain**: Artificial Intelligence in Cybersecurity
 - **Institutional Context**: Seminar Project, Sanjivani University
-- **Repository**: [RushikeshNirmal45/Seminar---Rushikesh-Nirmal](https://github.com/RushikeshNirmal45/Seminar---Rushikesh-Nirmal)
+- **Live Prototype**: [https://seminar-prototype.onrender.com/](https://seminar-prototype.onrender.com/)
+- **Repository**: [AdityaShelke2209/Seminar-Project](https://github.com/AdityaShelke2209/Seminar-Project)
 
 ---
 
@@ -177,7 +181,7 @@ flowchart TD
 ## Repository Structure
 
 ```
-Seminar---Rushikesh-Nirmal/
+Seminar-Project/
 ├── app.py                      # Main Streamlit dashboard application
 ├── requirements.txt            # Pinned, reproducible project dependencies
 ├── README.md                   # Comprehensive repository documentation
@@ -233,8 +237,8 @@ Seminar---Rushikesh-Nirmal/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/RushikeshNirmal45/Seminar---Rushikesh-Nirmal.git
-   cd Seminar---Rushikesh-Nirmal
+   git clone https://github.com/AdityaShelke2209/Seminar-Project.git
+   cd Seminar-Project
    ```
 
 2. **Create and Activate a Virtual Environment** (Recommended):
