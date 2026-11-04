@@ -16,7 +16,7 @@
 
 Developed by **Cyber Nexus**, this project illustrates how machine learning assists cybersecurity analysts in identifying anomalies and managing alert queues, while demonstrating why human verification and layered defense remain essential.
 
-> ⚠️ **Educational Prototype Notice**: The default demonstration dataset is programmatically generated synthetic network-traffic data designed to demonstrate pipeline mechanics. High accuracy on synthetic data does not represent production enterprise intrusion prevention efficacy.
+
 
 ---
 
