@@ -16,6 +16,8 @@ streamlit run app.py
 ```
 The browser will automatically open at `http://localhost:8501`.
 
+> 🌐 **Live Cloud Deployment**: The application is also accessible online at [https://seminar-prototype.onrender.com/](https://seminar-prototype.onrender.com/).
+
 ### Step 2: Overview Dashboard
 - Point out the dark cybersecurity UI designed for SOC analysts.
 - Highlight the **Educational Prototype Notice** stating that demonstration data is synthetic.
